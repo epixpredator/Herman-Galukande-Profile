@@ -1,0 +1,22 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+    color: greenyellow;
+    margin: 0%;
+    padding: 0%;
+}
+a{
+    color: yellow;
+    text-decoration: none;
+    font-family: Impact;
+    font-size: large;
+    font-style: oblique;
+}
+header{
+    background-color: green;
+    color: yellow;
+    padding: 20px;
+    text-align: center;
+    font-family: impact;
+    
+}

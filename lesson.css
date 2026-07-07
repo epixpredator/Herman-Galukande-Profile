@@ -11,7 +11,7 @@
   justify-content: space-between;/* Pushes logo left, nav-links right */
   padding: 20px 40px;            /* 20px top/bottom, 40px left/right inside space */
   margin-bottom: 30px;           /* Pushes the rest of the page down */
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Adds a subtle shadow */
+  box-shadow: 0 4px 6px rgba(44, 28, 28, 0.1); /* Adds a subtle shadow */
 }
 
 /* 3. The Links Container */
@@ -26,5 +26,5 @@
   border: 1px solid transparent; /* Invisible border to prevent shifting on hover */
   border-radius: 8px;            /* Softly rounded corners */
   text-decoration: none;         /* Removes the default underline */
-  color: #333;
+  color: #352828;
 }
